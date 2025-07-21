@@ -31,7 +31,7 @@ public class TC003_LoginDDT extends BaseClass {
 
 			// Account Page
 			MyAccountPage mac = new MyAccountPage(driver);
-			boolean targetpage = mac.isMyAccountExist();
+			boolean targetpage = mac.isMyAccountPageExists();
 
 			if (exp.equalsIgnoreCase("Valid")) {
 				if (targetpage == true) {

@@ -1,10 +1,10 @@
-2025-07-07 19:35:09 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hihel\eclipse-workspace\NRAutomation\OpencartV121\master.xml"
-2025-07-07 19:35:16 INFO  TC_001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
-2025-07-07 19:35:16 DEBUG TC_001_AccountRegistrationTest:15 - This is a debug log message
-2025-07-07 19:35:17 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
-2025-07-07 19:35:17 INFO  TC_001_AccountRegistrationTest:22 - Clicked on Register Link.. 
-2025-07-07 19:35:17 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details...
-2025-07-07 19:35:19 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message..
-2025-07-07 19:35:19 INFO  TC_001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
-2025-07-07 19:35:22 INFO  TC002_LoginTest:15 - ***Starting Login test$$$
-2025-07-07 19:35:24 INFO  TC002_LoginTest:35 - ***Finished Login test$$$
+2025-07-21 20:07:46 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hihel\eclipse-workspace\NRAutomation\OpencartV121\master.xml"
+2025-07-21 20:07:53 INFO  TC_001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-07-21 20:07:53 DEBUG TC_001_AccountRegistrationTest:15 - This is a debug log message
+2025-07-21 20:07:53 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2025-07-21 20:07:54 INFO  TC_001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2025-07-21 20:07:54 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details...
+2025-07-21 20:07:55 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message..
+2025-07-21 20:07:55 INFO  TC_001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-21 20:07:57 INFO  TC002_LoginTest:15 - ***Starting Login test$$$
+2025-07-21 20:07:59 INFO  TC002_LoginTest:35 - ***Finished Login test$$$
